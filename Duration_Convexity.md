@@ -2,7 +2,11 @@
 
 ## **⏱️ What is duration and why does it matter**
 
-Einstein observed that compound interest is the eighth wonder of the world elaborating that: 'He  who understands it, earns it; he who doesn't, pays it.'  A less pithy elaboration is that the value now of a future payment depends on its timing and the interest rate that may be earned between now and then.  Interest rate increases enhance the effects of compounding and diminish the current value of future payments. Decreases, the opposite.  The interest rate risk of bonds is due to the vagaries of interest rates.  Accounting for interest rate risk is key in developing financial strategies.  Duration is an effective way of measuring and managing interest rate risk.
+Albert Einstein famously called compound interest the eighth wonder of the world, noting that those who understand it earn it, and those who don't pay it.
+
+A less poetic but equally vital truth is that the present value of any future cash flow is entirely hostage to two things: time and interest rates. When interest rates climb, the math of compounding aggressively erodes the current value of future payments. When rates fall, the reverse happens, lifting their value today.
+
+This constant tug-of-war is the root of interest rate risk—the inherent volatility that bond investors must navigate. Building an effective financial strategy requires mastering this risk, a process that begins with a single, critical metric: duration.
 
 ## **🔍 Defining duration**
 
