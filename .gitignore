@@ -14,5 +14,6 @@ deploy.sh
 fred/
 jupyter_one/
 Chapters_Seven_Eight/
+notebooks/*.json
 
 
