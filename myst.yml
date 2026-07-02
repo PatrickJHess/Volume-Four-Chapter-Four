@@ -62,7 +62,7 @@ site:
   options:
     repository: https://github.com/PatrickJHess/Volume-Four-Chapter-Four
     style: static/custom.css
-    base_url: /Volume-Four-Chapter-Four/
+    base_url: /Volume-Four-Chapter-Four
     thebe: true  # This enables the engine
     # The 'binder' block MUST be indented under 'options'
     binder:
