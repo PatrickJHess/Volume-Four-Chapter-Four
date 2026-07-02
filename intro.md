@@ -18,7 +18,7 @@ From inspecting the present value formula and our knowledge of the term structur
 
 So why are duration and convexity widely regarded as useful measures of interest rate risk? The answer lies in their close cousin: **Yield to Maturity (YTM)**.
 
-As we saw in the previous Chapter, we can define a single discount rate—the yield to maturity—to price a bond. Once established, the duration and convexity of a bond are computed relative to this YTM. The industry standard is to measure interest rate risk using derivatives defined by the yield to maturity.
+As we saw in the previous Chapter, we can define a single discount rate—the yield to maturity—to price a bond. Once established, the duration and convexity of a bond are computed relative to this YTM. The industry standard is to measure interest rate risk using the first and second derivatives defined with the yield to maturity.
 
 It is a mathematical sleight of hand. As we also demonstrated previously, a bond's yield to maturity is merely a complex aggregation of the underlying spot rates used to discount its cash flows. So what are duration and convexity really? Like yield to maturity, they are useful rules of thumb.
 
