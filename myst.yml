@@ -29,6 +29,7 @@ project:
         - title: Interacting With Jupyter Books
           file: Interacting With Jupyter Books.md
     - title: 'Chapter Four:📈 Interest Rate Risk: From Static Metrics to Dynamic Simulation'
+      file: chapter_four_index.md
       children:
         - title: Chapter Highlights
           file: Chapter_Four_Highlights.md
