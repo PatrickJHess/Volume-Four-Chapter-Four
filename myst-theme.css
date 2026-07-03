@@ -39,21 +39,10 @@ a[target^="_blank_"]:hover::after {
     transform: scale(1.05); /* Subtle pop on hover */
     background: #fff;
 }
-/* 1. Expand the main content wrapper */
-.bd-main .bd-content {
-    max-width: 95% !important; /* Allows the whole center column to widen */
-}
 
-/* 2. Tell the article container to use all that new space */
-.bd-article-container {
-    max-width: 100% !important; 
-}
 
-/* 3. Force wide plots/images to scale down to fit the screen instead of scrolling */
-.cell_output img, .cell_output svg {
-    max-width: 100% !important;
-    height: auto !important;
-}
+
+
 
 /* Hide on mobile to prevent UI clutter */
 @media (max-width: 768px) {
