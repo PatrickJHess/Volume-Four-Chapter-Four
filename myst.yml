@@ -30,7 +30,7 @@ project:
           file: Interacting With Jupyter Books.md
     - title: 'Chapter Four:📈 Interest Rate Risk: From Static Metrics to Dynamic Simulation'
       children:
-        - title: Chapter Highlights
+        - title: ✨ Chapter Highlights
           file: Chapter_Four_Highlights.md
         - title: 📉 Interest Rate Risk-Duration and Convexity
           file: Duration_Convexity.md
@@ -38,7 +38,7 @@ project:
           file: notebooks/Defining_Duration_and_Convexity.ipynb
         - title: '🛡️ Beyond Duration & Convexity: Simulating Risk to Drive Strategy'
           file: notebooks/Demonstrating_Duration_And_Convexity.ipynb
-        - title: Chapter Summary
+        - title: 📝📉 Chapter Summary
           file: Chapter_Summary.md
         - title: Imported Functions and FredReader
           file: imported_functions.md
