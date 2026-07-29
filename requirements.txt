@@ -13,6 +13,7 @@ pandas-datareader
 pandas<3.0
 scipy
 lxml
+html5lib
 # Ensure JupyterLab is installed
 jupyterlab
 
